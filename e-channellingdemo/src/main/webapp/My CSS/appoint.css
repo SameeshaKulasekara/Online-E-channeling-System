@@ -1,0 +1,198 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url("../images/appointment/image.jpg");
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.login-box{
+    width: 700px;
+    height:1600px;
+    background:rgba(0,0,0,0.5);
+    color: #fff;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    box-sizing: border-box;
+    padding: 70px 30px;
+    float: left;
+    margin-top:700px;
+    
+}
+
+.avatar{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    position: absolute;
+    top: -10px;
+    left: calc(50% - 50px);
+    padding: 10px 0 10 0px;
+    margin-left: 20px;
+}
+
+.appoinform h3{
+    margin: 50px 0 80px 0;
+    padding: 20px 0 50px 0;
+    text-align: center;
+    font-size: 22px;
+    
+}
+
+.container{
+ background:rgba(0,0,0,0.5);
+ width: 600px;
+ left: 50%;
+ box-sizing: border-box;
+ padding: 70px 30px;
+
+}
+
+.container p{
+    margin: 20px;
+    padding: 0;
+    font-weight: bold;
+    
+}
+
+.login-box input{
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.login-box input[type="text"]
+{
+    border: none;
+    position: relative;
+    border-bottom: 1px solid #fff;
+    background: transparent;
+    outline: none;
+    height: 20px;
+    color: #fff;
+    font-size: 16px; 
+}
+
+.label
+{
+    border: none;
+    background: transparent;
+    height: 40px;
+}
+
+.login-box input[type="submit"]
+{
+    border: none;
+    outline: none;
+    height: 40px;
+    background: #1c8adb;
+    color: #fff;
+    font-size: 18px;
+    border-radius: 20px;
+}
+.login-box input[type="submit"]:hover
+{
+    cursor: pointer;
+    background: #39dc79;
+    color: #000;
+}
+
+.login-box a{
+    text-decoration: none;
+    font-size: 14px;
+    color: #fff;
+}
+.login-box a:hover
+{
+    color: #39dc79;
+}
+
+.box3{
+	background-color:#45a049;
+    width: 100%;
+    left: 0;
+    bottom:0;
+    color: black;
+    text-align: center;
+    padding: 0px;
+	padding-bottom: 5px;
+    text-align: bottom;
+    opacity:3;
+    margin-top:800px;
+
+}
+
+.box4{
+	float: left;
+    width: 30%;
+    padding: 10px;
+    height: 2000px; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

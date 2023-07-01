@@ -1,0 +1,19 @@
+.btn10{
+  padding: 0.6rem 1.3rem;
+  background-color:black;
+  border: 2px solid #fafafa;
+  font-size: 0.95rem;
+  color: rgb(67, 10, 63);
+  line-height: 1;
+  border-radius: 5px;
+  outline: none;
+  cursor: pointer;
+  transition: 0.3s;
+  margin: 10px;
+  width: 100%;
+}
+
+.btn10:hover {
+  background-color: red;
+  color: rgba(167, 78, 78, 0.199);
+}
